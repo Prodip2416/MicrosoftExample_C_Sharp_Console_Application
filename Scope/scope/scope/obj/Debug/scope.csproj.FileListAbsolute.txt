@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\bin\Debug\scope.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\bin\Debug\scope.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\bin\Debug\scope.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\obj\Debug\scope.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\obj\Debug\scope.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Scope\scope\scope\obj\Debug\scope.pdb
