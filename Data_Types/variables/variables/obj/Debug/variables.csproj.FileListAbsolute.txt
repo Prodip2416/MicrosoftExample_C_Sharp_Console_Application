@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\bin\Debug\variables.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\bin\Debug\variables.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\bin\Debug\variables.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\obj\Debug\variables.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\variables\variables\obj\Debug\variables.pdb

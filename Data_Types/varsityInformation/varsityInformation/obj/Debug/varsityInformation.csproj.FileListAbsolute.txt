@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\bin\Debug\varsityInformation.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\obj\Debug\varsityInformation.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\bin\Debug\varsityInformation.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\bin\Debug\varsityInformation.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\obj\Debug\varsityInformation.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Data_Types\varsityInformation\varsityInformation\obj\Debug\varsityInformation.pdb
