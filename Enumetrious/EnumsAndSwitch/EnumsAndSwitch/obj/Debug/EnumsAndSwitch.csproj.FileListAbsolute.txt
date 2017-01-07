@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Enumetrious\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Enumetrious\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Enumetrious\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Enumetrious\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Enumetrious\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb
