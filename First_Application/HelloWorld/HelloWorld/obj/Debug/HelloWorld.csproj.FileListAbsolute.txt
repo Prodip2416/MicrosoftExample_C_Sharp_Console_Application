@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\First_Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
