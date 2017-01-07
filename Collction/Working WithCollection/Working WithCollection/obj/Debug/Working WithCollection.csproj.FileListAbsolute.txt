@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\bin\Debug\Working WithCollection.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\bin\Debug\Working WithCollection.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\bin\Debug\Working WithCollection.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\obj\Debug\Working WithCollection.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\obj\Debug\Working WithCollection.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Collction\Working WithCollection\Working WithCollection\obj\Debug\Working WithCollection.pdb
