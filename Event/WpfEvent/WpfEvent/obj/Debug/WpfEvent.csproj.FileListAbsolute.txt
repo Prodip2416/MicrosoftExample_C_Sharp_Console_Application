@@ -1,0 +1,14 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\bin\Debug\WpfEvent.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\MainWindow.g.cs
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\App.g.cs
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.lref
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\MainWindow.baml
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.g.resources
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.Properties.Resources.resources
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csproj.GenerateResource.Cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Event\WpfEvent\WpfEvent\obj\Debug\WpfEvent.pdb
