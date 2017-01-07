@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\bin\Debug\simpleClass.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\bin\Debug\simpleClass.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\bin\Debug\simpleClass.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\obj\Debug\simpleClass.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\obj\Debug\simpleClass.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Class\simpleClass\simpleClass\obj\Debug\simpleClass.pdb
