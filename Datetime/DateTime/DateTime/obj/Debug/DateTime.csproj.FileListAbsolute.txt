@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Datetime\DateTime\DateTime\bin\Debug\DateTime.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Datetime\DateTime\DateTime\bin\Debug\DateTime.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Datetime\DateTime\DateTime\bin\Debug\DateTime.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Datetime\DateTime\DateTime\obj\Debug\DateTime.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\Datetime\DateTime\DateTime\obj\Debug\DateTime.pdb
