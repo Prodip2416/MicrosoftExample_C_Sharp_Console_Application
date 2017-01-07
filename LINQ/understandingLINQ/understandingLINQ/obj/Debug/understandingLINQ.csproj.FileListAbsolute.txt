@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\bin\Debug\understandingLINQ.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\bin\Debug\understandingLINQ.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\bin\Debug\understandingLINQ.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\obj\Debug\understandingLINQ.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\obj\Debug\understandingLINQ.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\LINQ\understandingLINQ\understandingLINQ\obj\Debug\understandingLINQ.pdb
