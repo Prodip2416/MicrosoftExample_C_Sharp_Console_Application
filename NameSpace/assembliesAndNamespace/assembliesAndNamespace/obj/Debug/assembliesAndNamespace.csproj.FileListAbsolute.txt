@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\NameSpace\assembliesAndNamespace\assembliesAndNamespace\bin\Debug\assembliesAndNamespace.exe.config
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\NameSpace\assembliesAndNamespace\assembliesAndNamespace\bin\Debug\assembliesAndNamespace.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\NameSpace\assembliesAndNamespace\assembliesAndNamespace\bin\Debug\assembliesAndNamespace.pdb
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\NameSpace\assembliesAndNamespace\assembliesAndNamespace\obj\Debug\assembliesAndNamespace.exe
+E:\Programming With DOT NET\C# Console Application\Microsoft Tutorial\NameSpace\assembliesAndNamespace\assembliesAndNamespace\obj\Debug\assembliesAndNamespace.pdb
